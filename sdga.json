@@ -1,19 +1,20 @@
 {
-  "name": "SDGA",
-  "symbol": "SDGA",
-  "description": "SDGA Token bridges finance and sustainability to accelerate progress on the United Nations Sustainable Development Goals (SDG). Built on secure blockchain infrastructure and paired with advanced measurement technology such as SDG Assessment SPF+ UN Sustainable Development Performance Indicator (SDPI) scorecard. SDGA funds and verifies high-impact carbon credits, plastic credits, biodiversity credits, climate and social projects. Token holders gain staking rewards, voting rights in decentralized governance, and real-time impact reporting — creating a transparent, investable pathway to measurable regenerative outcomes. Join a community investing with purpose. Learn more at https://sdga.io.",
-  "image": "https://gateway.pinata.cloud/ipfs/bafkreietd3xuy7oqpbbsuz3t5ymcapltwz4cwqizshwj7w7meeivgnbzau",
-  "external_url": "https://sdga.io/",
+  "name": "ORBITA",
+  "symbol": "ORBA",
+  "description": "ORBITA is a fictional test token created for development and demonstration purposes only. This token does not represent a real project, asset, investment, or utility. Any references to sustainability, governance, or rewards are purely illustrative and hold no real-world value or guarantee.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmTestImagePlaceholderDoNotUseInProduction",
+  "external_url": "https://example.com/test-token",
   "attributes": [],
   "properties": {
-    "category": "token",
-    "project": "Regenerative Finance (ReFI) for SDGs",
+    "category": "test-token",
+    "environment": "development / staging",
+    "notice": "This metadata is fictional and intended for testing only.",
     "socials": {
-      "twitter": "https://x.com/SDGAToken"
+      "twitter": "https://x.com/example_test"
     },
     "files": [
       {
-        "uri": "https://gateway.pinata.cloud/ipfs/bafkreietd3xuy7oqpbbsuz3t5ymcapltwz4cwqizshwj7w7meeivgnbzau",
+        "uri": "https://gateway.pinata.cloud/ipfs/QmTestImagePlaceholderDoNotUseInProduction",
         "type": "image/png"
       }
     ]
